@@ -1,0 +1,26 @@
+h1 {
+	color: #10698f;
+	text-align: center;
+	text-shadow: 0 0 10px white;
+}
+
+body {
+	background-color: #9fc0cf;
+}
+
+h2 {
+	color: red;
+	text-shadow: 0 0 10px white;
+}
+
+ul {
+	color: blue;
+	background: pink;
+	border: red 2px solid;
+}
+
+ol {
+	color: green;
+	background: pink;
+	border: red 2px solid;
+}
